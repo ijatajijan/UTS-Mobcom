@@ -41,6 +41,6 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 @Composable
 fun GreetingPreview() {
     UTS_MobcomTheme {
-        Greeting("Android")
+        Greeting("Muhammad Izzat Azizan")
     }
 }
